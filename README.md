@@ -26,7 +26,7 @@ https://github.com/igarcia6783ce-blip/aws-lab-02-ebs-linux
 
 ### 6. EBS Persistence (Lab 03)
 https://github.com/igarcia6783ce-blip/aws-lab-03-ec2-ebs-persistence
----
+
 
 ## Technologies Used
 - Amazon EC2
